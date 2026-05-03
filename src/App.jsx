@@ -7,7 +7,7 @@ import AudioVisualizer from './components/AudioVisualizer'
 import HangingRope from './components/HangingRope'
 
 const PHOTOS = [
-  { id: 1, src: 'https://njy.my.id/files/eiz.jpg', caption: 'tak jauh seperti sang bidadari', initialPos: { x: '10%', y: 15, rotate: -10 } },
+  { id: 1, src: 'https://njy.my.id/files/8zc.jpg', caption: 'tak jauh seperti sang bidadari', initialPos: { x: '10%', y: 15, rotate: -10 } },
   { id: 2, src: 'https://njy.my.id/files/ckxp.jpg', caption: 'kan ku peluk dia sampai mati', initialPos: { x: '35%', y: 25, rotate: -5 } },
   { id: 3, src: 'https://njy.my.id/files/qocd.jpg', caption: 'rambutnya pun indah bagai putri', initialPos: { x: '60%', y: 25, rotate: 5 } },
   { id: 4, src: 'https://njy.my.id/files/u5gd.jpg', caption: 'mirip iklan di tv', initialPos: { x: '85%', y: 15, rotate: 12 } },
